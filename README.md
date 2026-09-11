@@ -1,16 +1,24 @@
-# Daniel Fashauer - Enterprise Platform Engineering & Architecture Portfolio
+# Dan Fashauer | About Me & Portfolio
 
-Public professional portfolio for Daniel Fashauer.
+**[Visit my portfolio](https://danfashauer.github.io/)** · [About me](https://danfashauer.github.io/#about) · [Work samples](https://danfashauer.github.io/work/) · [LinkedIn](https://www.linkedin.com/in/daniel-f-a0148278)
 
-Live site: `https://danfashauer.github.io/`
+## About me
 
-Architecture work samples: `https://danfashauer.github.io/work/`
+I'm Dan Fashauer, a Senior Platform Engineer with 12+ years of enterprise IT experience spanning frontline support, systems support, engineering, and enterprise platform operations.
 
-## Positioning
+My strongest hands-on experience is across endpoint, mobility, identity, and shared-device environments: Microsoft Intune, Workspace ONE UEM, Jamf, Microsoft Entra ID / Active Directory, Windows, macOS, iOS, and Android.
 
-The site presents Daniel as a Senior Platform Engineer with 12+ years of progressive enterprise IT experience whose deepest hands-on foundation is endpoint and mobility, with broader strength in enterprise systems thinking, identity/device-trust dependencies, implementation planning, validation, automation/integration, stakeholder translation, and technical advisory work.
+I connect operational requirements with platform configuration, troubleshooting, testing and validation, documentation, and cross-team coordination. I use existing automation and API-enabled platform capabilities to support that work, collaborating with development specialists when custom software or APIs are required.
 
-Target direction includes Digital Workplace / Client Platform engineering, Workplace Technology / Modern Workplace architecture, enterprise platform architecture, and adjacent technical advisory roles.
+## Portfolio
+
+- [Enterprise Endpoint Platform Decision Model](https://danfashauer.github.io/work/endpoint-platform.html) — anonymized professional reconstruction covering requirements, dependencies, implementation decisions, and validation.
+- [Shared Device Trust Workflow](https://danfashauer.github.io/work/shared-device-trust.html) — anonymized professional reconstruction connecting identity, device state, operational handoff, and support.
+- [SignalGrid](https://danfashauer.github.io/work/signalgrid.html) — independent trust-orchestration concept for shared and mobile work environments, not represented as an employer production deployment.
+
+## Main website
+
+[danfashauer.github.io](https://danfashauer.github.io/) is the main portfolio homepage for this GitHub account. The root `index.html` contains both About Me and Portfolio navigation. Existing work samples remain available under `/work/`.
 
 ## Evidence model
 
@@ -34,7 +42,7 @@ LinkedIn is authoritative for employer names, job titles, employment dates, chro
 
 ## Privacy / confidentiality
 
-Representative work is reconstructed and anonymized around recurring enterprise responsibilities rather than proprietary employer implementations. The site intentionally avoids publishing employer names in case studies, internal architecture, credentials, private URLs, device identifiers, confidential metrics, ticket data, or proprietary screenshots.
+Representative work is reconstructed and anonymized around recurring enterprise responsibilities rather than proprietary employer implementations. The site intentionally avoids publishing employer names in case studies, internal architecture, credentials, private URLs, device identifiers, confidential metrics, ticket data, or proprietary screenshots. Do not publish private resumes, personal contact details, or job-search preferences here.
 
 ## Site files
 
