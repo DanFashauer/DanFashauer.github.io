@@ -1,0 +1,114 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 4 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 6 0 R >>
+endobj
+4 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 5 0 R >> >> /Contents 7 0 R >>
+endobj
+5 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+6 0 obj
+<< /Length 2514 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 48 746 Tm (DANIEL FASHAUER) Tj
+1 0 0 1 48 731 Tm (SENIOR PLATFORM ENGINEER | ENTERPRISE ENDPOINT, MOBILITY & IDENTITY) Tj
+1 0 0 1 48 716 Tm (Tampa Bay Area, Florida | Open to Remote) Tj
+1 0 0 1 48 701 Tm (linkedin.com/in/daniel-fashauer-a0148278 | danfashauer.github.io) Tj
+1 0 0 1 48 686 Tm () Tj
+1 0 0 1 48 671 Tm (PROFESSIONAL SUMMARY) Tj
+1 0 0 1 48 656 Tm (Senior Platform Engineer with 12+ years of enterprise healthcare IT experience.) Tj
+1 0 0 1 48 641 Tm (Specializes in endpoint, mobility, identity and shared-device platforms.) Tj
+1 0 0 1 48 626 Tm (Experience in HCA's approximately 200,000-endpoint environment and BayCare's) Tj
+1 0 0 1 48 611 Tm (approximately 40,000-endpoint environment. These are organization-wide) Tj
+1 0 0 1 48 596 Tm (environment sizes, not individual device-administration claims.) Tj
+1 0 0 1 48 581 Tm (Skilled in platform configuration, complex troubleshooting, application) Tj
+1 0 0 1 48 566 Tm (delivery, testing, change validation, documentation and cross-team coordination.) Tj
+1 0 0 1 48 551 Tm () Tj
+1 0 0 1 48 536 Tm (CORE EXPERTISE) Tj
+1 0 0 1 48 521 Tm (Microsoft Intune | Workspace ONE UEM | Jamf | SCCM/MECM | MobileIron) Tj
+1 0 0 1 48 506 Tm (Windows Autopilot | Windows | macOS | iOS | Android | Shared devices) Tj
+1 0 0 1 48 491 Tm (Microsoft Entra ID | Active Directory | Device compliance | Device trust) Tj
+1 0 0 1 48 476 Tm (Root-cause analysis | ServiceNow / ITSM | Application delivery | Lifecycle) Tj
+1 0 0 1 48 461 Tm (Requirements gathering | Operational standards | Vendor coordination) Tj
+1 0 0 1 48 446 Tm (Existing scripting, automation and API-enabled platform capabilities) Tj
+1 0 0 1 48 431 Tm () Tj
+1 0 0 1 48 416 Tm (PROFESSIONAL EXPERIENCE) Tj
+1 0 0 1 48 401 Tm (HCA HEALTHCARE | Senior Platform Engineer | Feb 2025 - Present) Tj
+1 0 0 1 48 386 Tm (Enterprise environment: approximately 200,000 endpoints.) Tj
+1 0 0 1 48 371 Tm (- Support endpoint and mobility services across Windows, macOS, iOS and Android.) Tj
+1 0 0 1 48 356 Tm (- Troubleshoot platform, compliance, application and identity dependencies.) Tj
+1 0 0 1 48 341 Tm (- Coordinate root-cause analysis and resolution with technical teams and vendors.) Tj
+1 0 0 1 48 326 Tm (- Validate platform changes, deployment workflows and operational readiness.) Tj
+1 0 0 1 48 311 Tm (- Document technical standards, support guidance and lifecycle procedures.) Tj
+1 0 0 1 48 296 Tm (- Apply existing automation and scripting capabilities to platform operations.) Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Length 2250 >>
+stream
+BT
+/F1 10 Tf
+1 0 0 1 48 746 Tm (DANIEL FASHAUER | PROFESSIONAL EXPERIENCE \(CONTINUED\)) Tj
+1 0 0 1 48 731 Tm () Tj
+1 0 0 1 48 716 Tm (BAYCARE HEALTH SYSTEM | Jun 2014 - Nov 2024) Tj
+1 0 0 1 48 701 Tm (Enterprise environment: approximately 40,000 endpoints.) Tj
+1 0 0 1 48 686 Tm () Tj
+1 0 0 1 48 671 Tm (Senior Engineer | Apr 2024 - Nov 2024) Tj
+1 0 0 1 48 656 Tm (- Provided advanced endpoint and mobility engineering and escalation support.) Tj
+1 0 0 1 48 641 Tm (- Coordinated change validation, documentation and technical dependencies.) Tj
+1 0 0 1 48 626 Tm () Tj
+1 0 0 1 48 611 Tm (Engineer | Aug 2021 - Apr 2024) Tj
+1 0 0 1 48 596 Tm (- Supported enterprise UEM, device compliance, configuration, app delivery,) Tj
+1 0 0 1 48 581 Tm (  troubleshooting and device lifecycle processes.) Tj
+1 0 0 1 48 566 Tm (- Conducted advanced root-cause analysis and change validation.) Tj
+1 0 0 1 48 551 Tm () Tj
+1 0 0 1 48 536 Tm (Senior Systems Support Analyst | Dec 2019 - Aug 2021) Tj
+1 0 0 1 48 521 Tm (- Resolved escalated systems issues, coordinated incident resolution,) Tj
+1 0 0 1 48 506 Tm (  and supported technology deployments and validation.) Tj
+1 0 0 1 48 491 Tm () Tj
+1 0 0 1 48 476 Tm (End-User Support Analyst II | Jul 2017 - Dec 2019) Tj
+1 0 0 1 48 461 Tm (- Delivered enterprise device support, incident and request resolution,) Tj
+1 0 0 1 48 446 Tm (  technology deployments, refreshes and project assistance.) Tj
+1 0 0 1 48 431 Tm () Tj
+1 0 0 1 48 416 Tm (Customer Support Specialist | Jun 2014 - Jul 2017) Tj
+1 0 0 1 48 401 Tm (- Provided technical support, incident triage and user communication) Tj
+1 0 0 1 48 386 Tm (  for enterprise technology services.) Tj
+1 0 0 1 48 371 Tm () Tj
+1 0 0 1 48 356 Tm (TURBINE DIAGNOSTIC SERVICES) Tj
+1 0 0 1 48 341 Tm (System Administrator | Feb 2012 - Jun 2014) Tj
+1 0 0 1 48 326 Tm (- Supported systems administration, devices, user access, core IT services,) Tj
+1 0 0 1 48 311 Tm (  maintenance and troubleshooting.) Tj
+1 0 0 1 48 296 Tm () Tj
+1 0 0 1 48 281 Tm (EDUCATION) Tj
+1 0 0 1 48 266 Tm (Pinellas Technical Education Center) Tj
+1 0 0 1 48 251 Tm () Tj
+1 0 0 1 48 236 Tm (Portfolio: danfashauer.github.io) Tj
+1 0 0 1 48 221 Tm (LinkedIn: linkedin.com/in/daniel-fashauer-a0148278) Tj
+ET
+endstream
+endobj
+xref
+0 8
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000121 00000 n 
+0000000247 00000 n 
+0000000373 00000 n 
+0000000443 00000 n 
+0000003008 00000 n 
+trailer
+<< /Size 8 /Root 1 0 R >>
+startxref
+5309
+%%EOF
